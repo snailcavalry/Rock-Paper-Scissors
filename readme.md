@@ -1,0 +1,1 @@
+This is the Rock-Paper-Scissors project for the The Odin Project
